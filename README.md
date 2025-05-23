@@ -1,7 +1,6 @@
-NAME: VIJAYAKUMAR S
-
-REG NO: 212224040359
 # Fitting Poisson  distribution
+# NAME: VIJAYAKUMAR S
+# REG NO: 212224040359
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
